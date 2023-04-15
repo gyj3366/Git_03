@@ -6,6 +6,7 @@ public class student {
     public static void main(String[] args){
         System.out.print("hello");
         System.out.println("hello1");
+        System.out.println("hello2");
     }
 
     public String getId() {
