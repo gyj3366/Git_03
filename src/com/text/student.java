@@ -5,6 +5,7 @@ public class student {
     public String id;
     public static void main(String[] args){
         System.out.print("hello");
+        System.out.println("hello1");
     }
 
     public String getId() {
